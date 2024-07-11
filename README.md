@@ -36,9 +36,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Haryuya11&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-* ✉️  You can contact me at [vochinhhieu11082004@gmail.com](mailto:vochinhhieu11082004@gmail.com)
-
-
-
