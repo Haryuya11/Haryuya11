@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 # 💫About Me :
-🔭 I’m currently studying at University of Information Technology 
-🌱 I’m currently learning Java
+- 🔭 I’m currently studying at University of Information Technology
+- 🌱 I’m currently learning Java
 
 
 ## 🌐Socials
