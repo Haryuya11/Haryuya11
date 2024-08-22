@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Võ Chính Hiệu a passionate Backend Engineer in the making, with a focus on Java,
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Võ Chính Hiệu 
 =====================================================================================================================================
 
 # 💫About Me :
 - 🌍  I'm based in Ho Chi Minh City
 - 🔭 I’m currently studying at University of Information Technology
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, Kotlin
 
 
 ## 🌐Socials
