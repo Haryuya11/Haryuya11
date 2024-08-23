@@ -18,7 +18,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 # 💫About Me :
 - 🌍  I'm based in Ho Chi Minh City
 - 🔭 I’m currently studying at University of Information Technology
-- 🌱 I’m currently learning Java, Kotlin
+- 🌱 I’m currently learning Java
 
 
 ## 🌐Socials
